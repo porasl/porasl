@@ -1,6 +1,3 @@
-<img width="1235" height="728" alt="postView" src="https://github.com/user-attachments/assets/5a48cc7f-663a-4918-bcb8-0676b507cc8f" />
-
-
 Inrik Social Media repositories containing production-ready base code. 
 
 ### 📜 Licensing
