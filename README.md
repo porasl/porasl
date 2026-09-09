@@ -6,9 +6,7 @@ This software is available for use and deployment under INRIK's licensing terms.
 ### 📬 Contact Me
 For licensing inquiries, project access, or collaboration, please reach out:
 * ✉️ **Email:** hamid@porasl.com
-<img width="1353" height="788" alt="inrik_main" src="https://github.com/user-attachments/assets/5a4e694a-e38c-48e1-bdc1-6d7d03d4f819" />
-<img width="1235" height="728" alt="postView" src="https://github.com/user-attachments/assets/0e062096-4f43-4127-84d8-17dba50a9178" />
-<img width="1189" height="701" alt="inrik_video" src="https://github.com/user-attachments/assets/bffc560a-83fa-415d-8b04-9435b66be46e" />
-<img width="1461" height="761" alt="Advertisement_studio" src="https://github.com/user-attachments/assets/1111d7e1-640d-43cf-8005-844aaf4e76e8" />
-<img width="974" height="762" alt="AI_Animation_studio" src="https://github.com/user-attachments/assets/08141b32-248e-4805-ab4b-6eede9baf854" />
+<img width="1141" height="759" alt="Screenshot 2026-09-09 at 12 04 13 AM" src="https://github.com/user-attachments/assets/2bc1e878-a0c0-42f4-968e-eb46fcbbc67d" />
+<img width="1173" height="760" alt="Screenshot 2026-09-09 at 12 02 19 AM" src="https://github.com/user-attachments/assets/b4aadc7c-6268-4364-bf1f-945e2126e297" />
+<img width="1218" height="745" alt="Screenshot 2026-09-09 at 12 00 08 AM" src="https://github.com/user-attachments/assets/1184ec30-d5a3-4bba-a096-9adfa9057833" />
 
