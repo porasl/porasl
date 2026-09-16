@@ -6,7 +6,8 @@ This software is available for use and deployment under INRIK's licensing terms.
 ### 📬 Contact Me
 For licensing inquiries, project access, or collaboration, please reach out:
 * ✉️ **Email:** hamid@porasl.com
-<img width="1314" height="756" alt="Screenshot 2026-09-15 at 11 52 16 PM" src="https://github.com/user-attachments/assets/583af178-91af-41b9-971d-28722031af02" />
-<img width="1264" height="751" alt="Screenshot 2026-09-15 at 11 52 48 PM" src="https://github.com/user-attachments/assets/45ba3afe-ad76-4e61-a237-325940ea7f6f" />
+<img width="1357" height="757" alt="inrik_video" src="https://github.com/user-attachments/assets/cee3572e-93d1-44b0-858e-f4a7adf64653" />
+<img width="1352" height="765" alt="inrik_main" src="https://github.com/user-attachments/assets/6b9eba02-ae39-4840-97e0-99af16566820" />
+
 
 
