@@ -1,4 +1,6 @@
 Inrik Social Media repositories containing production-ready base code. 
+<img width="1372" height="800" alt="inrik_main" src="https://github.com/user-attachments/assets/1244a7ad-249d-420f-9207-e67a8cafc9ce" />
+<img width="1372" height="800" alt="inrik_main" src="https://github.com/user-attachments/assets/3e8a723e-48dd-458b-bea9-6e3d460daeec" />
 
 ### 📜 Licensing
 This software is available for use and deployment under INRIK's licensing terms. 
