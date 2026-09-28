@@ -8,7 +8,7 @@ For licensing inquiries, project access, or collaboration, please reach out:
 * ✉️ **Email:** hamid@porasl.com 
 
 ![image](inrik_main.png)
-![image](inrik_main_admin.png)
+![image](inrik_main1.png)
 <img width="1357" height="800" alt="inrik_video" src="https://github.com/user-attachments/assets/cee3572e-93d1-44b0-858e-f4a7adf64653" />
 
 ![image](ai1.png)
