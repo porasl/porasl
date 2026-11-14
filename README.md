@@ -1,3 +1,4 @@
+<img width="1420" height="755" alt="inrik_main" src="https://github.com/user-attachments/assets/ed912c90-cf95-4cb4-ae29-ae337c96df19" />
 Inrik Social Media repositories containing production-ready base code. 
 
 ### 📜 Licensing
