@@ -9,9 +9,8 @@ For licensing inquiries, project access, or collaboration, please reach out:
 * ✉️ **Email:** hamid@porasl.com 
 
 <img width="1420" height="755" alt="inrik_main" src="https://github.com/user-attachments/assets/ed912c90-cf95-4cb4-ae29-ae337c96df19" />
-![image](inrik_main1.png)
-<img width="1357" height="800" alt="inrik_video" src="https://github.com/user-attachments/assets/cee3572e-93d1-44b0-858e-f4a7adf64653" />
-![image](inrik_house1.png)
+<img width="1457" height="761" alt="inrik_main" src="https://github.com/user-attachments/assets/67da2da6-a84e-45a8-b39f-e25802ea280d" />
+
 
 
 
