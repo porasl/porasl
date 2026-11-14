@@ -1,4 +1,4 @@
-<img width="1420" height="755" alt="inrik_main" src="https://github.com/user-attachments/assets/ed912c90-cf95-4cb4-ae29-ae337c96df19" />
+
 Inrik Social Media repositories containing production-ready base code. 
 
 ### 📜 Licensing
@@ -8,7 +8,7 @@ This software is available for use and deployment under INRIK's licensing terms.
 For licensing inquiries, project access, or collaboration, please reach out:
 * ✉️ **Email:** hamid@porasl.com 
 
-![image](inrik_main.png)
+<img width="1420" height="755" alt="inrik_main" src="https://github.com/user-attachments/assets/ed912c90-cf95-4cb4-ae29-ae337c96df19" />
 ![image](inrik_main1.png)
 <img width="1357" height="800" alt="inrik_video" src="https://github.com/user-attachments/assets/cee3572e-93d1-44b0-858e-f4a7adf64653" />
 ![image](inrik_house1.png)
